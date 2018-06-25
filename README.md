@@ -1,6 +1,7 @@
 # Course Project
 
-![](graphics/github_lander_2.gif)
+![](graphics/github_lander_3.gif)
+![](graphics/github_lander_3.gif)
 
 There are a large and rapidly growing number of remarkable applications of Computer Vision. From autonomous cars to smart manufacturing to augmented reality, inexpensive and ubiquitous cameras have made computer vision tools and techniques more relevant than ever. Cheap cameras and smart algorithms are empowering engineers to find creative solutions to important problems, provide real value to customers, and create products that simply could not have existed before.
 
