@@ -38,7 +38,12 @@ Founded: 2007, Raised: $37M
 
 # About the Course Project 
 
-As part of this course, students will work on a **real computer vision problem** as part of a semester-long group project. Projects will be broken into and evaluated on 6 milestones:
+As part of this course, students work to build a solution to a **real computer vision problem** as part of a semester-long group project. The technology developed by the companies shown above is intended to show the broad range of possible computer vision applications, and give a little taste for what's happening in the industry right now. Of course, these companies have built some truly remarkable technology that will take longer than a single semester to implement. However, all these companies did start somewhere, likely with a simple demo, or **Minimum Viable Product (MVP)**. 
+
+This is the project. Find a real problem, and create a MVP that provides real value /simple demo for someone. 
+
+
+Projects will be broken into and evaluated on 6 milestones:
 
 |         |   Milestone     | Description                 | Deliverable           | Due Date      | Resources    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
