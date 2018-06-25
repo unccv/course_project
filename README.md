@@ -1,11 +1,29 @@
 # Course Project
 
+There are a large and rapidly growing number of remarkable applications of Computer Vision. From autonomous cars to smart manufacturing to augmented reality, inexpensive and ubiquitous cameras have made computer vision tools and techniques more relevant than ever. Cheap cameras and smart algorithms are empowering engineers to find creative solutions to important problems, provide real value to customers, and create products that simply could not have existed before.
+
+## Some Interesting Computer Vision Applications
+
+### 
 ![](graphics/github_lander_3.gif)
+
+
 ![](graphics/github_lander_4.gif)
+
+
 ![](graphics/github_lander_5.gif)
+
+### gumgum
 ![](graphics/github_lander_6.gif)
 
-There are a large and rapidly growing number of remarkable applications of Computer Vision. From autonomous cars to smart manufacturing to augmented reality, inexpensive and ubiquitous cameras have made computer vision tools and techniques more relevant than ever. Cheap cameras and smart algorithms are empowering engineers to find creative solutions to important problems, provide real value to customers, and create products that simply could not have existed before.
+Gumgum serves contextual marketing messages in line with content users are actively engaged with, helps marketers and rights holders understand the full media value of their sponsorship investments across broadcast and social media, and analyzes visual content across social media in real time. 
+
+Founded: 2007 
+Raised: $37M
+
+
+
+
 
 As part of this course, students will work on a **real computer vision problem** as part of a semester-long group project. Projects will be broken into and evaluated on 6 milestones:
 
