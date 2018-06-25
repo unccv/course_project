@@ -55,7 +55,6 @@ Projects will be broken into and evaluated on 6 milestones:
 |    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous milestones| | 15% |
 
 
-
 ## 1. Topic Selection
 
 ## 2. Customer Research
@@ -67,3 +66,28 @@ Projects will be broken into and evaluated on 6 milestones:
 ## 5. Technical Execution
 
 ## 6. Final Pitch + MVP Demo
+
+
+# Industry Partnerships
+
+![](graphics/old_charlotte_map.png)
+
+Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to your business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use. 
+
+## Benefits to Industry Partners
+- Groups may come up with interesting approaches that may be worth pursuing further.
+- Partners may identify well-qaulified potential interns or hires. 
+
+## Benefits to Students
+- Get work on a real problem
+- A little guidance along the way
+- Exposure to intersting places to potentially work
+- A strong resume booster
+
+
+
+
+
+
+
+
