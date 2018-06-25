@@ -43,16 +43,16 @@ As part of this course, students work to build a solution to a **real computer v
 This is the project. Find a real problem, and create a MVP/Simple demo that provides real value for someone. 
 
 
-Projects will be broken into and evaluated on 6 milestones:
+Projects will be broken into and evaluated on 6 stages:
 
-|         |   Milestone     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
+|         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
 |    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup |    |  5%  | 
 |    2    | Customer Research | Who are your customers? Talk to them.| 3-5 page writeup summarizing customer interactions + learning | | 10% |
 |    3    | Literature Review + Competitive Analysis | What academeic literature and existing code/tools will help solve the problem for your customer? Who are your competitors? How does do their solutions work?| 3-5 page writeup | | 5% |
 |    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | | 5% | 
 |    5    | Technical Execution | Get to work! | none || |
-|    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous milestones| | 15% |
+|    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
 
 
 ## 1. Topic Selection
@@ -84,7 +84,6 @@ Where possible, group projects will involve working directly with a local busine
 - Exposure to intersting places to potentially work
 - A strong resume booster
 
-# Expections
 
 
 
