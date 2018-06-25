@@ -40,7 +40,7 @@ Founded: 2007, Raised: $37M
 
 As part of this course, students work to build a solution to a **real computer vision problem** as part of a semester-long group project. The technology developed by the companies shown above is intended to show the broad range of possible computer vision applications, and give a little taste for what's happening in the industry right now. Of course, these companies have built some truly remarkable technology that will take longer than a single semester to implement. However, all these companies did start somewhere, likely with a simple demo, or **Minimum Viable Product (MVP)**. 
 
-This is the project. Find a real problem, and create a MVP that provides real value /simple demo for someone. 
+This is the project. Find a real problem, and create a MVP/Simple demo that provides real value for someone. 
 
 
 Projects will be broken into and evaluated on 6 milestones:
@@ -72,17 +72,21 @@ Projects will be broken into and evaluated on 6 milestones:
 
 ![](graphics/old_charlotte_map.png)
 
-Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to your business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use. 
+Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to thier business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use. 
 
 ## Benefits to Industry Partners
-- Groups may come up with interesting approaches that may be worth pursuing further.
-- Partners may identify well-qaulified potential interns or hires. 
+- Groups may come up with interesting approaches that may be worth pursuing further
+- Partners may identify well-qaulified potential interns or hires
 
 ## Benefits to Students
 - Get work on a real problem
 - A little guidance along the way
 - Exposure to intersting places to potentially work
 - A strong resume booster
+
+# Expections
+
+
 
 
 
