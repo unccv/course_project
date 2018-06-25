@@ -2,28 +2,41 @@
 
 There are a large and rapidly growing number of remarkable applications of Computer Vision. From autonomous cars to smart manufacturing to augmented reality, inexpensive and ubiquitous cameras have made computer vision tools and techniques more relevant than ever. Cheap cameras and smart algorithms are empowering engineers to find creative solutions to important problems, provide real value to customers, and create products that simply could not have existed before.
 
-## Some Interesting Computer Vision Applications
+# Some Interesting Computer Vision Applications
 
-### 
+# Mapillary 
+
 ![](graphics/github_lander_3.gif)
 
+Mapillary is a service for crowdsourcing map photos and street view. Using simple tools like smartphones or action cameras anyone can collect photos that are combined into street view. Computer vision on the server-side automatically matches and combines photos across time and across users. Photos are processed with privacy preserving blurring using face detection and license plate detection.
 
+Founded: 2015, Raised: $24.5
+
+
+# Osmo
 ![](graphics/github_lander_4.gif)
 
+Osmo is an award-winning game system that will change the way your child interacts with the iPad and iPhone by opening them up to hands-on play.
 
+Founded: 2013, Raised: $26.5
+
+# Mashgin
 ![](graphics/github_lander_5.gif)
 
-### gumgum
+Mashgin is building an object recognition technology that uses 3D reconstruction, computer vision and deep learning to identify items accurately. They are applying this technology to enable faster checkout in retail. Multiple items can be scanned simultaneously and in any orientation. No bar-codes or RFID are required.
+
+
+# gumgum
 ![](graphics/github_lander_6.gif)
 
 Gumgum serves contextual marketing messages in line with content users are actively engaged with, helps marketers and rights holders understand the full media value of their sponsorship investments across broadcast and social media, and analyzes visual content across social media in real time. 
 
-Founded: 2007 
-Raised: $37M
+Founded: 2007, Raised: $37M
 
 
 
 
+# About the Course Project 
 
 As part of this course, students will work on a **real computer vision problem** as part of a semester-long group project. Projects will be broken into and evaluated on 6 milestones:
 
