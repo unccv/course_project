@@ -33,7 +33,7 @@ Gumgum serves contextual marketing messages in line with content users are activ
 
 Founded: 2007, Raised: $37M
 
-[40 More Interesting Companies](http://www.welchlabs.io/unccv/course_project/interesting_startups_and_businesses.pptx)
+[PPT with 40 More Interesting Companies](http://www.welchlabs.io/unccv/course_project/interesting_startups_and_businesses.pptx)
 
 
 # About the Course Project 
@@ -56,7 +56,7 @@ Projects will be broken into and evaluated on 6 stages:
 
 
 ## 1. Topic Selection
-There are a huge number of applications of computer vision. Good course project topics will meet a few criteria: 
+There are a huge number of interesting applications of computer vision. Good course project topics will meet a few criteria: 
 
 1. Use image or video data as primary data source
 2. Leverage Computer Vision algorithms on top of data
@@ -64,7 +64,9 @@ There are a huge number of applications of computer vision. Good course project 
 
 [Here are 50+ project ideas](https://docs.google.com/spreadsheets/d/1ihH5_DdFyn5M0yv9maoYeqpiFoL4fL5jLYOeC4IgN0s/edit#gid=0)
 
+Group + topic assignment details will be discussed in class. 
 
+**Deliverables:**
 
 
 ## 2. Customer Research
@@ -86,6 +88,8 @@ There are a huge number of applications of computer vision. Good course project 
 ## 6. Final Pitch + MVP Demo
 
 
+
+
 # Industry Partnerships
 
 ![](graphics/old_charlotte_map.png)
@@ -101,6 +105,14 @@ Where possible, group projects will involve working directly with a local busine
 - A little guidance along the way
 - Exposure to intersting places to potentially work
 - A strong resume booster
+
+## Expectations
+
+Due to time constraints - this project is only one piece of one course - it's important to keep project expectations reasonable. These partnerships are far less extensive than, for example, industry-sponsored graduate level research. The hoped for outcomes here are outlined in the benefits above. Finally, by their very nature, many of these topics are relatively unexplored, meaning that good solutions may not be possible, especially in the course of a semester. This is what make entrepreneurship + research exciting, but also risky. 
+
+
+
+
 
 
 
