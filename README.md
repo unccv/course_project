@@ -33,7 +33,7 @@ Gumgum serves contextual marketing messages in line with content users are activ
 
 Founded: 2007, Raised: $37M
 
-
+[40 More Interesting Companies](http://www.welchlabs.io/unccv/course_project/interesting_startups_and_businesses.pptx)
 
 
 # About the Course Project 
@@ -48,22 +48,40 @@ Projects will be broken into and evaluated on 6 stages:
 |         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
 |    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup |    |  5%  | 
-|    2    | Customer Research | Who are your customers? Talk to them.| 3-5 page writeup summarizing customer interactions + learning | | 10% |
-|    3    | Literature Review + Competitive Analysis | What academeic literature and existing code/tools will help solve the problem for your customer? Who are your competitors? How does do their solutions work?| 3-5 page writeup | | 5% |
+|    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | | 7.5% |
+|    3    | Literature Review + Competitive Analysis | What academeic literature and existing code/tools will help solve the problem for your customer? Who are your competitors? How does do their solutions work?| 3-5 page writeup | | 7.5% |
 |    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | | 5% | 
 |    5    | Technical Execution | Get to work! | none || |
 |    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
 
 
 ## 1. Topic Selection
+There are a huge number of applications of computer vision. Good course project topics will meet a few criteria: 
+
+1. Use image or video data as primary data source
+2. Leverage Computer Vision algorithms on top of data
+3. Provide value to someone
+
+[Here are 50+ project ideas](https://docs.google.com/spreadsheets/d/1ihH5_DdFyn5M0yv9maoYeqpiFoL4fL5jLYOeC4IgN0s/edit#gid=0)
+
+
+
 
 ## 2. Customer Research
 
+
+
 ## 3. Literature Review + Competitive Analysis
+
+
 
 ## 4. Technical Planning
 
+
+
 ## 5. Technical Execution
+
+
 
 ## 6. Final Pitch + MVP Demo
 
