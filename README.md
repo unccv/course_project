@@ -10,7 +10,7 @@ There are a large and rapidly growing number of remarkable applications of Compu
 
 Mapillary is a service for crowdsourcing map photos and street view. Using simple tools like smartphones or action cameras anyone can collect photos that are combined into street view. Computer vision on the server-side automatically matches and combines photos across time and across users. Photos are processed with privacy preserving blurring using face detection and license plate detection.
 
-Founded: 2015, Raised: $24.5
+Founded: 2015, Raised: $24.5M
 
 
 # Osmo
@@ -18,7 +18,7 @@ Founded: 2015, Raised: $24.5
 
 Osmo is an award-winning game system that will change the way your child interacts with the iPad and iPhone by opening them up to hands-on play.
 
-Founded: 2013, Raised: $26.5
+Founded: 2013, Raised: $26.5M
 
 # Mashgin
 ![](graphics/github_lander_5.gif)
