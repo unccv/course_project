@@ -95,15 +95,15 @@ Here we will generally follow the [Lean Startup](https://en.wikipedia.org/wiki/L
 
 A nice intro the these ideas can be found in Steve Blank's [The Four Steps to The Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf).
 
-###**Scope**
+### **Scope**
 Now, this is of course a Computer Vision course, not an Entreprenuership Course. The expectation here is that spending some time conducting customer research will make your engineering work more interesting, relevant, and focused. 
 
 
-###**Deliverables:**
+### **Deliverables:**
 Printed 3-5 page writeup summarizing customer research + learning. Strong writeups will provide well-researched answers to these questions: What problem will your Computer Vision solution solve, and for whom? What value will it provide them? What are their pain points? How big is the potential market? Do other similar solutions exist? Would your business have any competitors? Who are they? How are they doing? How are potential customers dealing with these issues now? How much would customer be willing to pay for your product? Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
 
 
-###**Extra Credit**
+### **Extra Credit**
 There's nothing quite like talking to **real potential customers**. Earn 0.5 pts on your final grade for each potential customer interview you conduct, for up to 3 interviews. Interviews cannot be with people you knew before starting the class - you have to find your own leads. Interviews may be conducted in person or over the phone. Interviews should focus on the customer's problems and how your particular computer vision solution could help them. Record your interview and include a transcript of your interview questions and your interviewees responses as an appendix to your writeup. 
 
 
