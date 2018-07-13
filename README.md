@@ -43,15 +43,14 @@ As part of this course, students work to build a solution to a **real computer v
 This is the project. Find a real problem, and create a MVP/Simple demo that provides real value for someone. 
 
 
-Projects will be broken into and evaluated on 6 stages:
+Projects will be broken into and evaluated in 5 stages:
 
 |         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
 |    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup |    |  5%  | 
 |    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | | 7.5% |
-|    3    | Literature Review + Competitive Analysis | What academeic literature and existing code/tools will help solve the problem for your customer? Who are your competitors? How does do their solutions work?| 3-5 page writeup | | 7.5% |
+|    3    | Literature Review | What academeic literature and existing code/tools will help solve the problem for your customer? How are other organizations solving similar problems? | 3-5 page writeup | | 7.5% |
 |    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | | 5% | 
-|    5    | Technical Execution | Get to work! | none || |
 |    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
 
 
@@ -67,7 +66,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 Group + topic assignment details will be discussed in class. 
 
 **Deliverables:**
-A printed one page writeup with including your group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your chosen topic, and a proposed final technology demo. 
+A printed one page writeup with including your team name, group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your chosen topic, and a proposed final technology demo. 
 
 
 ## 2. Customer Research
@@ -94,31 +93,51 @@ Here we will generally follow the [Lean Startup](https://en.wikipedia.org/wiki/L
 
 ---
 
+A nice intro the these ideas can be found in Steve Blank's [The Four Steps to The Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf).
 
-To whom will you provide value? What problem will your Computer Vision solution solve, and for whom? What are their pain points?
-
-
-**Extra Credit**
+**Scope**
+Now, this is of course a Computer Vision course, not an Entreprenuership Course. The expectation here is that spending some time conducting customer research will make your engineering work more interesting, relevant, and focused. 
 
 
 **Deliverables:**
-Printed 3-5 page writeup summarizing customer research + learning. 
+Printed 3-5 page writeup summarizing customer research + learning. Strong writeups will provide well-researched answers to these questions: What problem will your Computer Vision solution solve, and for whom? What value will it provide them? What are their pain points? How big is the potential market? Do other similar solutions exist? Would your business have any competitors? Who are they? How are they doing? How are potential customers dealing with these issues now? How much would customer be willing to pay for your product? Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
 
-## 3. Literature Review + Competitive Analysis
 
+**Extra Credit**
+There's nothing quite like talking to **real potential customers**. Earn 0.5 pts on your final grade for each potential customer interview you conduct, for up to 3 interviews. Interviews cannot be with people you knew before starting the class - you have to find your own leads. Interviews may be conducted in person or over the phone. Interviews should focus on the customer's problems and how your particular computer vision solution could help them. Record your interview and include a transcript of your interview questions and your interviewees responses as an appendix to your writeup. 
+
+
+## 3. Literature Review
+Part 2 was all about people, Part 3 is all about technology. A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done.
+
+### **Deliverables**
+Printed 3-5 page writeup, citing 10+ sources. Writeup sections should include: 
+
+###Academic Literature 
+This section should read like the introduction to an [academic paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). What academic work is relevant to your project topic? How do these approaches inform yours? What are the strenghts, weaknesses, and history of these techniques? 
+
+
+###Publically Available Tools and Code
+What open source code and tools are available that are relevant to your topic? How long have they been around? How active are the communities around these tools?
+
+
+###Industry Solutions
+What companies are solving similar problems to yours? It can be tough to tell exactly how proprietary solutions work, but what can you find on the internet? Has anyone reverse engineered these products? If you have access to the product, what can you learn from using it? Are there available talks, documentation, or other resources from their engineering teams?
 
 
 ## 4. Technical Planning
+What will a successful demo look like? What are the 3-6 milestones to a completed demo? How will you break up the work accross your team members? What programming languagues are you planning to develop your solution in? What open source tools will you use (opencv, tensorflow). What's your technical plan B if you run into issues?
 
 
-
-## 5. Technical Execution
-
-
-
-## 6. Final Pitch + MVP Demo
+**Deliverables**
+Printed 2 page planning document. 
 
 
+## 5. Final Pitch + MVP Demo
+
+
+**Deliverables**
+10 minute presentation + demo of your technology to your peers. Public Github repo containing well-documented implementation of your solution, final presentation, and deliverables from previous stages.
 
 
 # Industry Partnerships
