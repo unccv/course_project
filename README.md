@@ -2,7 +2,7 @@
 
 There are a large and rapidly growing number of remarkable applications of Computer Vision. From autonomous cars to smart manufacturing to augmented reality, inexpensive and ubiquitous cameras have made computer vision tools and techniques more relevant than ever. Cheap cameras and smart algorithms are empowering engineers to find creative solutions to important problems, provide real value to customers, and create products that simply could not have existed before.
 
-# Some Interesting Computer Vision Applications
+# A Few Interesting Computer Vision Applications
 
 # Mapillary 
 
@@ -67,11 +67,42 @@ There are a huge number of interesting applications of computer vision. Good cou
 Group + topic assignment details will be discussed in class. 
 
 **Deliverables:**
+A printed one page writeup with including your group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your chosen topic, and a proposed final technology demo. 
 
 
 ## 2. Customer Research
+Here we will generally follow the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology. A nice summary of the relevant key ideas is Steve Blank's Customer Development Manifesto:
+
+---
+
+**A Startup Is a Temporary Organization Designed to Search for A Repeatable and Scalable Business Model**
+
+1. There Are No Facts Inside Your Building, So Get Outside
+2. Pair Customer Development with Agile Development
+3. Failure is an Integral Part of the Search
+4. Make Continuous Iterations and Pivots
+5. No Business Plan Survives First Contact with Customers So Use a Business Model Canvas
+6. Design Experiments and Test to Validate Your Hypothesis
+7. Agree on Market Type. It Changes Everything
+8. Startup Metrics Differ from Those in Existing Companies
+9. Fast Decision-Making, Cycle Time, Speed and Tempo
+10. It's All About Passion
+11. Startup Job Titles Are Very Different from a Large Company's
+12. Preserve All Cash Until Needed. Then Spend.
+13. Communicate and Share Learning
+14. Customer Development Success Begins With Buy-In
+
+---
 
 
+To whom will you provide value? What problem will your Computer Vision solution solve, and for whom? What are their pain points?
+
+
+**Extra Credit**
+
+
+**Deliverables:**
+Printed 3-5 page writeup summarizing customer research + learning. 
 
 ## 3. Literature Review + Competitive Analysis
 
@@ -108,7 +139,7 @@ Where possible, group projects will involve working directly with a local busine
 
 ## Expectations
 
-Due to time constraints - this project is only one piece of one course - it's important to keep project expectations reasonable. These partnerships are far less extensive than, for example, industry-sponsored graduate level research. The hoped for outcomes here are outlined in the benefits above. Finally, by their very nature, many of these topics are relatively unexplored, meaning that good solutions may not be possible, especially in the course of a semester. This is what make entrepreneurship + research exciting, but also risky. 
+Due to time constraints - this project is only one piece of one course - it's important to keep project expectations reasonable. These partnerships are far less extensive than, for example, industry-sponsored graduate level research. The hoped for outcomes here are outlined in the benefits above. Finally, by their very nature, many of these topics are relatively unexplored, meaning that good solutions may not be possible, especially in the course of a semester. This is what make entrepreneurship + research exciting, but also risky. One of the reasons this project is a semester long it to give you the time to pivot or change your scope if your first appraoch doesn't pan out. 
 
 
 
