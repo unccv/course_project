@@ -65,7 +65,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 
 Group + topic assignment details will be discussed in class. 
 
-### **Deliverables:**
+### Deliverables
 A printed one page writeup with including your team name, group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your chosen topic, and a proposed final technology demo. 
 
 
@@ -95,22 +95,22 @@ Here we will generally follow the [Lean Startup](https://en.wikipedia.org/wiki/L
 
 A nice intro the these ideas can be found in Steve Blank's [The Four Steps to The Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf).
 
-### **Scope**
+### Scope
 Now, this is of course a Computer Vision course, not an Entreprenuership Course. The expectation here is that spending some time conducting customer research will make your engineering work more interesting, relevant, and focused. 
 
 
-### **Deliverables:**
+### Deliverables:
 Printed 3-5 page writeup summarizing customer research + learning. Strong writeups will provide well-researched answers to these questions: What problem will your Computer Vision solution solve, and for whom? What value will it provide them? What are their pain points? How big is the potential market? Do other similar solutions exist? Would your business have any competitors? Who are they? How are they doing? How are potential customers dealing with these issues now? How much would customer be willing to pay for your product? Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
 
 
-### **Extra Credit**
+### Extra Credit
 There's nothing quite like talking to **real potential customers**. Earn 0.5 pts on your final grade for each potential customer interview you conduct, for up to 3 interviews. Interviews cannot be with people you knew before starting the class - you have to find your own leads. Interviews may be conducted in person or over the phone. Interviews should focus on the customer's problems and how your particular computer vision solution could help them. Record your interview and include a transcript of your interview questions and your interviewees responses as an appendix to your writeup. 
 
 
 ## 3. Literature Review
 Part 2 was all about people, Part 3 is all about technology. A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done.
 
-### **Deliverables**
+### Deliverables
 Printed 3-5 page writeup, citing 10+ sources. Writeup sections should include: 
 
 ### Academic Literature 
@@ -129,14 +129,14 @@ What companies are solving similar problems to yours? It can be tough to tell ex
 What will a successful demo look like? What are the 3-6 milestones to a completed demo? How will you break up the work accross your team members? What programming languagues are you planning to develop your solution in? What open source tools will you use (opencv, tensorflow). What's your technical plan B if you run into issues?
 
 
-### **Deliverables**
+### Deliverables
 Printed 2 page planning document. 
 
 
 ## 5. Final Pitch + MVP Demo
 
 
-**Deliverables**
+### Deliverables
 10 minute presentation + demo of your technology to your peers. Public Github repo containing well-documented implementation of your solution, final presentation, and deliverables from previous stages.
 
 
