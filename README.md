@@ -51,7 +51,7 @@ Projects will be broken into and evaluated in 5 stages:
 |    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | | 7.5% |
 |    3    | Literature Review | What academeic literature and existing code/tools will help solve the problem for your customer? How are other organizations solving similar problems? | 3-5 page writeup | | 7.5% |
 |    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | | 5% | 
-|    6    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
+|    5    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
 
 
 ## 1. Topic Selection
