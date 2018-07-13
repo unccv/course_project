@@ -113,7 +113,7 @@ Part 2 was all about people, Part 3 is all about technology. A thorough literatu
 ### **Deliverables**
 Printed 3-5 page writeup, citing 10+ sources. Writeup sections should include: 
 
-###Academic Literature 
+### Academic Literature 
 This section should read like the introduction to an [academic paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). What academic work is relevant to your project topic? How do these approaches inform yours? What are the strenghts, weaknesses, and history of these techniques? 
 
 
