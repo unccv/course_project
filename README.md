@@ -154,7 +154,7 @@ Where possible, group projects will involve working directly with a local busine
 - Groups may come up with interesting approaches that may be worth pursuing further
 - Partners may identify well-qualified potential interns or hires
 
-[Guidelines for Industry Partners]()
+[Guidelines for Industry Partners](https://github.com/unccv/course_project/blob/master/industry_partnerships.md)
 
 ## Benefits to Students
 - Get work on a real problem
