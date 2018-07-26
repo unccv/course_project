@@ -32,5 +32,5 @@ As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-l
 
 ### Meeting 3: Final Presentation
 - Between Dec 1 and Dec 6
-- Industry Partners are invited to attend final group presentations at UNCC (date TBD - likely December 3, 4, or 5). If this doesn't work, teams will present twice - once at UNCC final groupd presentations and meet with partners independently for final presentations.
+- Industry Partners are invited to attend final group presentations at UNCC (date TBD - likely December 3, 4, or 5). If this doesn't work, teams will present twice - once at UNCC final groups presentations, and meet with partners independently for final presentations.
 - Teams will share a demo of the solution they have developed, and share key findings form the development process. 
