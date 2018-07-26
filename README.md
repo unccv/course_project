@@ -111,7 +111,9 @@ There's nothing quite like talking to **real potential customers**. Earn 0.5 pts
 Part 2 was all about people, Part 3 is all about technology. A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done.
 
 ### Deliverables
-Printed 3-5 page writeup, citing 10+ sources. Writeup sections should include: 
+A printed 3-5 page writeup citing 10+ sources, and 10-15 slide deck presenting the same information. 
+
+Sections should include: 
 
 ### Academic Literature 
 This section should read like the introduction to an [academic paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). What academic work is relevant to your project topic? How do these approaches inform yours? What are the strenghts, weaknesses, and history of these techniques? 
@@ -148,12 +150,12 @@ Where possible, group projects will involve working directly with a local busine
 
 ## Benefits to Industry Partners
 - Groups may come up with interesting approaches that may be worth pursuing further
-- Partners may identify well-qaulified potential interns or hires
+- Partners may identify well-qualified potential interns or hires
 
 ## Benefits to Students
 - Get work on a real problem
 - A little guidance along the way
-- Exposure to intersting places to potentially work
+- Exposure to interesting places to potentially work
 - A strong resume booster
 
 ## Expectations
