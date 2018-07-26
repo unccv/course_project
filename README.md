@@ -106,6 +106,8 @@ Printed 3-5 page writeup summarizing customer research + learning. Strong writeu
 ### Extra Credit
 There's nothing quite like talking to **real potential customers**. Earn 0.5 pts on your final grade for each potential customer interview you conduct, for up to 3 interviews. Interviews cannot be with people you knew before starting the class - you have to find your own leads. Interviews may be conducted in person or over the phone. Interviews should focus on the customer's problems and how your particular computer vision solution could help them. Record your interview and include a transcript of your interview questions and your interviewees responses as an appendix to your writeup. 
 
+For groups working with Industry Partners (see below), talking with customers is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
+
 
 ## 3. Literature Review
 Part 2 was all about people, Part 3 is all about technology. A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done.
@@ -139,7 +141,7 @@ Printed 2 page planning document.
 
 
 ### Deliverables
-10 minute presentation + demo of your technology to your peers. Public Github repo containing well-documented implementation of your solution, final presentation, and deliverables from previous stages.
+10 minute presentation + demo of your technology to your peers. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing well-documented implementation of your solution, final presentation, and deliverables from previous stages.
 
 
 # Industry Partnerships
@@ -152,15 +154,18 @@ Where possible, group projects will involve working directly with a local busine
 - Groups may come up with interesting approaches that may be worth pursuing further
 - Partners may identify well-qualified potential interns or hires
 
+[Guidelines for Industry Partners]()
+
 ## Benefits to Students
 - Get work on a real problem
 - A little guidance along the way
 - Exposure to interesting places to potentially work
 - A strong resume booster
 
-## Expectations
+## Extra Credit
+For groups working with Industry Partners, the extra credit portion of phase 2 is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
 
-Due to time constraints - this project is only one piece of one course - it's important to keep project expectations reasonable. These partnerships are far less extensive than, for example, industry-sponsored graduate level research. The hoped for outcomes here are outlined in the benefits above. Finally, by their very nature, many of these topics are relatively unexplored, meaning that good solutions may not be possible, especially in the course of a semester. This is what make entrepreneurship + research exciting, but also risky. One of the reasons this project is a semester long it to give you the time to pivot or change your scope if your first appraoch doesn't pan out. 
+
 
 
 
