@@ -117,8 +117,8 @@ Printed 3-5 page writeup, citing 10+ sources. Writeup sections should include:
 This section should read like the introduction to an [academic paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). What academic work is relevant to your project topic? How do these approaches inform yours? What are the strenghts, weaknesses, and history of these techniques? 
 
 
-### Publically Available Tools and Code
-What open source code and tools are available that are relevant to your topic? How long have they been around? How active are the communities around these tools?
+### Publically Available Data, Tools, and Code
+What open source code and tools are available that are relevant to your topic? How long have they been around? How active are the communities around these tools? What data is available for testing and/or training algorithms? Is labeled data available?
 
 
 ### Industry Solutions
@@ -126,7 +126,7 @@ What companies are solving similar problems to yours? It can be tough to tell ex
 
 
 ## 4. Technical Planning
-What will a successful demo look like? What are the 3-6 milestones to a completed demo? How will you break up the work accross your team members? What programming languagues are you planning to develop your solution in? What open source tools will you use (opencv, tensorflow). What's your technical plan B if you run into issues?
+What will a successful demo look like? What are the 3-6 milestones to a completed demo? How will you break up the work accross your team members? What programming languagues are you planning to develop your solution in? What open source tools will you use (opencv, tensorflow). How will you aquire testing or training data? Do you need training data? Does your data need to labeled or annotated? If so, where will these labels come from? What's your technical plan B if you run into issues?
 
 
 ### Deliverables
