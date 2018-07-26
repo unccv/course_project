@@ -2,7 +2,7 @@
 
 ![](graphics/old_charlotte_map.png)
 
-As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-long ground project](https://github.com/unccv/course_project), where they build a demo solution to a real computer vision problem. Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to their business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use.
+As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-long group project](https://github.com/unccv/course_project), where they build a demo solution to a real computer vision problem. Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to their business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use.
 
 ## Benefits to Industry Partners
 - Groups may come up with interesting approaches that may be worth pursuing further
@@ -32,5 +32,5 @@ As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-l
 
 ### Meeting 3: Final Presentation
 - Between Dec 1 and Dec 6
-- Industry Partners are invited to attend final group presentations at UNCC (date.+ time TBD - likely December 3, 4, or 5). If this doesn't work, teams will meet with partners independently for final presentations.
+- Industry Partners are invited to attend final group presentations at UNCC (date TBD - likely December 3, 4, or 5). If this doesn't work, teams will present twice - once at UNCC final groupd presentations and meet with partners independently for final presentations.
 - Teams will share a demo of the solution they have developed, and share key findings form the development process. 
