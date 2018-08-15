@@ -47,11 +47,11 @@ Projects will be broken into and evaluated in 5 stages:
 
 |         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
-|    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup |    |  5%  | 
-|    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | | 7.5% |
-|    3    | Literature Review | What academeic literature and existing code/tools will help solve the problem for your customer? How are other organizations solving similar problems? | 3-5 page writeup | | 7.5% |
-|    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | | 5% | 
-|    5    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| | 15% |
+|    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup | 9/14   |  5%  | 
+|    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | 9/28 | 7.5% |
+|    3    | Literature Review | What academeic literature and existing code/tools will help solve the problem for your customer? How are other organizations solving similar problems? | 3-5 page writeup | 10/15| 7.5% |
+|    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | 10/26| 5% | 
+|    5    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| 12/3 ish| 15% |
 
 
 ## 1. Topic Selection
@@ -66,7 +66,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 Group + topic assignment details will be discussed in class. 
 
 ### Deliverables
-A printed one page writeup with including your team name, group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your chosen topic, and a proposed final technology demo. 
+A printed one page writeup with including your team name, group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your topic proposal, a proposed final technology demo, and a resume from each group member. If you would like to collaborate with an industry partner (list on Canvas), include the partner you would like to collaborate with. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
 
 
 ## 2. Customer Research
