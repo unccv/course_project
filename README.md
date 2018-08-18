@@ -66,7 +66,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 Group + topic assignment details will be discussed in class. 
 
 ### Deliverables
-A printed one page writeup with including your team name, group member names, grad/undergrad status, a "primary contact" member of your group with phone number and email listed, a one-paragraph writeup of your topic proposal, a proposed final technology demo, and a resume from each group member. If you would like to collaborate with an industry partner (list on Canvas), include the partner you would like to collaborate with. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
+A printed one page writeup with including your name, grad/undergrad status, phone number and email listed, a one-paragraph writeup of your topic proposal, a proposed final technology demo, and your resume. If you would like to collaborate with an industry partner (list on Canvas), include the partner you would like to collaborate with. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. Groups of 3-4 will be made based on the similarity of the proposal and intensity of project. 
 
 
 ## 2. Customer Research
