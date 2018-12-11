@@ -165,6 +165,30 @@ Where possible, group projects will involve working directly with a local busine
 ## Extra Credit
 For groups working with Industry Partners, the extra credit portion of phase 2 is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
 
+# Fall 2018 Projects
+
+| Group Number | Project Name |
+|--------------|--------------|
+| 1 | [Video Stabilization](https://github.com/Thorsten007/unccv_image_stitching) |
+| 2 | [Food Identifier](https://github.com/sanchi36/project) |
+| 3 | [Autonomous Boat Project](https://github.com/imishra23663/PoseEstimation/blob/master/README.md) |
+| 4 | [Facial Emotion Recognition for Retail Analytics](https://github.com/Tabish06/FERRA) |
+| 5 | [Traffic Sign Recognition](https://github.com/whytheevanssoftware/4152Project) |
+| 6 | [Signature Verification](https://github.com/jadhavnikhil78/Signature-Verification) |
+| 8 | [Lung Cancer Detection](https://github.com/quaiquai/LCD-radIO-unccv) |
+| 9 | [DeepFect](https://github.com/adhishthite/uncc-cv-vitro/) |
+| 10 | [Vishion](https://github.com/wilsnat/unccv_course_project/) |
+| 11 | [Lucid Drone](https://github.com/narendravankayala/lucid.git) |
+| 12 | [Traffic Sign Classification](https://github.com/uncctrafficsigndetection) |
+| 13 | [Skin Cancer Detection](https://github.com/mmehedin/derma_diagnosis) |
+| 14 | [JeastyPy](https://github.com/nomdebrew/JeastyPy) |
+| 15 | [US Speed Limit Sign](https://github.com/rguptha95/Classifying-Speed-Limits) |
+| 16 | [Face Recognition based Attendance System](https://github.com/adu81020799/Face-Recognition-based-Attendance-System) |
+| 18 | [Audience Polling](https://github.com/AddisonCurtis/computer-vision-project) |
+
+
+
+
 
 
 
