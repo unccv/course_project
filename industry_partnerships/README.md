@@ -38,6 +38,5 @@ The partnership program connects groups of students in ITCS 4152/5152 (typically
 - Teams will present a review of relevant academic literature, publically available data, tools, and code; and existing industry solutions. Findings will be shared in a short slide deck and short write up.
 
 ### Meeting 3: Final Presentation (December)
-- Between Dec 1 and Dec 6
 - Industry Partners are invited to attend final group presentations at UNCC. If the timing doesn't work, teams will present twice - once at UNCC final groups presentations, and meet with partners independently for final presentations.
 - Teams will share a demo of the solution they have developed, and share key findings form the development process. 
