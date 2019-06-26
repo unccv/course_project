@@ -27,7 +27,7 @@ The partnership program connects groups of students in ITCS 4152/5152 (typically
 ### Disclaimers
 - In the unlikely case than novel IP is developed in the course of the project, ownership defaults to UNCC. Specific IP agreements maybe feasible under certain circumstances. 
 
-## When?
+## Fall 2019 Schedule
 
 ### Meeting 1: Topic Selection (September)
 - Industry Partners will choose 1-3 interesting problems for teams to potentially work on.
