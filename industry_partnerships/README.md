@@ -7,7 +7,7 @@
 Cheap and ubiquitous cameras coupled with powerful algorithms are enabling an enormous number of new computer vision applications. In Computer Vision (ITCS 4152/5152) at UNCC, students learn to build these computer vision algorithms. Where things get really exciting is when students can use these algorithms to **solve real problems.** 
 
 ## What?
-The partnership program connects groups of students in ITCS 4152/5152 (typically groups of 4, 3 grad students, 1 undergrad) with local partners. Partners provide a problem of interest, and meet with teams 3 times over the course of the semester to provide guidance and direction over the course of the semester. 
+The partnership program connects groups of students in ITCS 4152/5152 (typically groups of 4, 3 grad students, 1 undergrad) with local partners. Partners provide a problem of interest, and meet with teams 3 times over the course of the semester to provide guidance and direction. 
 
 ## Who?
 ![](graphics/fall_2018_partners-01.png)
