@@ -1,8 +1,28 @@
+
+# UNCC Computer Vision Industry and Community Partnerships
+
 ![](graphics/industry_partner_lander.gif)
 
-# UNCC Computer Vision Industry Partnerships
+## Why?
+Cheap and ubiquitous cameras coupled powerful algorithms are enabling an enormous number of new computer vision applications. In Computer Vision (ITCS 4152/5152) at UNCC, students learn to build these algorithms. Where things get really exciting is when students can use these algorithms to **solve real problems.** 
 
-As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-long group project](https://github.com/unccv/course_project), where they will build a demo solution to a real computer vision problem. Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to their business one day. [Here are some example topics.](https://docs.google.com/spreadsheets/d/1ihH5_DdFyn5M0yv9maoYeqpiFoL4fL5jLYOeC4IgN0s/edit#gid=0) Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use.
+## What?
+
+
+As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-long group project](https://github.com/unccv/course_project), 
+
+
+
+where they will build a demo solution to a real computer vision problem. Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to their business one day. [Here are some example topics.](https://docs.google.com/spreadsheets/d/1ihH5_DdFyn5M0yv9maoYeqpiFoL4fL5jLYOeC4IgN0s/edit#gid=0) Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use.
+
+## Fall 2018 Partners
+![](graphics/fall_2018_partners-01.png)
+
+
+## Expectations
+
+
+
 
 ## Benefits to Industry Partners
 - Groups may come up with interesting approaches that may be worth pursuing further
@@ -14,7 +34,10 @@ As part of Computer Vision (ITCS 4152/5152), students will work on a [semester-l
 - Exposure to interesting places to potentially work
 - A strong resume booster
 
-## Timeframe for Fall 2018
+
+
+
+## Timeframe for Fall 2019
 
 ### Topic Selection
 - Prior to September 1
