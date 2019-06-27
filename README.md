@@ -38,134 +38,100 @@ Founded: 2007, Raised: $37M
 
 # About the Course Project 
 
-As part of this course, students work to build a solution to a **real computer vision problem** as part of a semester-long group project. The technology developed by the companies shown above is intended to show the broad range of possible computer vision applications, and give a little taste for what's happening in the industry right now. Of course, these companies have built some truly remarkable technology that will take longer than a single semester to implement. However, all these companies did start somewhere, likely with a simple demo, or **Minimum Viable Product (MVP)**. 
+As part of this course, students work to build a solution to a **real computer vision problem** as part of a semester-long group project. The technology developed by the companies shown above is intended to show the broad range of possible computer vision applications, and give a little taste for what's happening in the industry right now. Of course, these companies have built some truly remarkable technology that will take longer than a single semester to implement. However, all these companies did start somewhere, likeley with a **Minimum Viable Product (MVP)**. 
 
-This is the project. Find a real problem, and create a MVP/Simple demo that provides real value for someone. 
+This is the project. Find a real problem, and create an MVP that provides real value for someone. 
 
 
-Projects will be broken into and evaluated in 5 stages:
+Projects will be broken into and evaluated in 4 stages:
 
 |         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
-|    1    | Topic Selection | What CV problem will you go after?  | 1 paragraph writeup | 9/14   |  5%  | 
-|    2    | Customer Research | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing customer research + learning | 10/3 | 7.5% |
-|    3    | Literature Review | What academeic literature and existing code/tools will help solve the problem for your customer? How are other organizations solving similar problems? | 3-5 page writeup | 10/17| 7.5% |
-|    4    | Technical Planning | How will you solve this problem? What tools will you use? How will you divide the work across your group? | 2 page planning document | 10/29| 5% | 
-|    5    | Final Pitch + MVP Demo | 10 minute presentation + demo of your technology to your peers  | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages| 12/3 ish| 15% |
+|    1    | Topic Selection | What CV problem will you go after?  | 1 page writeup | 9/5   |  1%  | 
+|    2    | Research + Data Collection | Who are your customers? (Talk to them for extra credit)| 3-5 page writeup summarizing  research, and visualizing dataset | 10/10 | 10% |
+|    3    | Modeling | Build and train your models. Experiment. | Well-documented, visually pleasing, and clear jupyter notebook presenting results. | 11/5| 10% |
+|    4    | Presentation + Storytelling | Craft your story. Create videos + visuals. Document your project. | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages | 12/3| 14% | 
 
+
+## Meetings 
+Throughout the course of the semester, your team will meet individually with TAs and Instructor to review your progress three times over the course of the semester, after the completion of stages 1, 2, and 3. You must schedule your meetings via calendly, a link will be provied. You will only receive credit for each stage after your individual meetings. 
 
 ## 1. Topic Selection
 There are a huge number of interesting applications of computer vision. Good course project topics will meet a few criteria: 
 
 1. Use image or video data as primary data source
 2. Leverage Computer Vision algorithms on top of data
-3. Provide value to someone
+3. Provide value to someone, solve a real problem. 
 
-[Here are 50+ project ideas](https://docs.google.com/spreadsheets/d/1ihH5_DdFyn5M0yv9maoYeqpiFoL4fL5jLYOeC4IgN0s/edit#gid=0)
-
-Group + topic assignment details will be discussed in class. 
 
 ### Deliverables
-A printed one page writeup with including your name, grad/undergrad status, phone number and email listed, a one-paragraph writeup of your topic proposal, a proposed final technology demo, and your resume. If you would like to collaborate with an industry partner (list on Canvas), include the partner you would like to collaborate with. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. Groups of 3-4 will be made based on the similarity of the proposal and intensity of project. 
+A printed one page proposal. If you already have team members in mind, you may submit a single proposal as a group. Submissions should inlcude your name(s), grad/undergrad status, phone number and email, a writeup of your topic proposal, a proposed final technology demo, and your resume(s). If you would like to collaborate with an industry partner (listed on Canvas), include the partner you would like to collaborate with, and tailor your proposal to your partner. Keep in mind that your partner may wish to change your topic. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
+
+### Final Team Creation
+We will make final team assignments. Ideally, each group will be composed of 2-3 graduate students and 1 undergraduate student. We will do our best to put you with requested team members, and assign you to the topic of our interest. 
 
 
-## 2. Customer Research
-Here we will generally follow the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology. A nice summary of the relevant key ideas is Steve Blank's Customer Development Manifesto:
+## 2. Research + Data Collection
 
----
+### 2.1 Research
 
-**A Startup Is a Temporary Organization Designed to Search for A Repeatable and Scalable Business Model**
+Your research should be spread accross a few key areas. Depending on your project, your research may be more "business focused" or more "academically" focused. You should address at least 10 of the questions below, and must choose and review 3 academic papers. 
 
-1. There Are No Facts Inside Your Building, So Get Outside
-2. Pair Customer Development with Agile Development
-3. Failure is an Integral Part of the Search
-4. Make Continuous Iterations and Pivots
-5. No Business Plan Survives First Contact with Customers So Use a Business Model Canvas
-6. Design Experiments and Test to Validate Your Hypothesis
-7. Agree on Market Type. It Changes Everything
-8. Startup Metrics Differ from Those in Existing Companies
-9. Fast Decision-Making, Cycle Time, Speed and Tempo
-10. It's All About Passion
-11. Startup Job Titles Are Very Different from a Large Company's
-12. Preserve All Cash Until Needed. Then Spend.
-13. Communicate and Share Learning
-14. Customer Development Success Begins With Buy-In
+#### 2.1.1 Business/Customers
+- What problem will your Computer Vision solution solve, and for whom? 
+- What value will it provide them? What are their pain points? 
+- How big is the potential market? 
+- Do other similar solutions exist? 
+- Would your business have any competitors? Who are they? How are they doing? 
+- How are potential customers dealing with these issues now? 
+- How much would customer be willing to pay for your product? 
+- Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
 
----
+#### 2.1.2 Academic Literature Review
+A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done. You should pick 3 academic papers (we can help you with this, just ask), and do a "deep-dive" on these publications. 
 
-A nice intro the these ideas can be found in Steve Blank's [The Four Steps to The Epiphany](https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handouts/Four_Steps.pdf).
+- What academic work is relevant to your project topic? Pick 3 papers, ask us for help if you need it.
+- What makes these papers important/relevant? 
+- What are their results and how did they achieve these results?
+- What's different/unique about these approaches?
 
-### Scope
-Now, this is of course a Computer Vision course, not an Entreprenuership Course. The expectation here is that spending some time conducting customer research will make your engineering work more interesting, relevant, and focused. 
+#### 2.1.3 Open Source 
+- What open source code is available that are relevant to your topic? 
+- How active are the communities around this code? 
+- What data is available for testing and/or training algorithms? 
+- Is labeled data available? How much? How is the data licensed? Is it under copyright protection?
+
+### 2.1.4 Industry Solutions
+- What companies are solving similar problems to yours? 
+- It can be tough to tell exactly how proprietary solutions work, but what can you find on the internet? 
+- Has anyone reverse engineered these products?
+- If you have access to the product, what can you learn from using it? 
+- Are there available talks, documentation, or other resources from their engineering teams?
+
+### 2.2 Data Collection
+Your project will involve either collecting your own data or using publically available data. Getting your dataset nailed down early is critical to success. For most problems, you will need some type of labels to go with your images or videos. If you're creating your own dataset, you'll likely need to do your own labeling. There are great open source tools to help you with this like [labelme](https://github.com/wkentaro/labelme). 
 
 
 ### Deliverables:
-Printed 3-5 page writeup summarizing customer research + learning. Strong writeups will provide well-researched answers to these questions: What problem will your Computer Vision solution solve, and for whom? What value will it provide them? What are their pain points? How big is the potential market? Do other similar solutions exist? Would your business have any competitors? Who are they? How are they doing? How are potential customers dealing with these issues now? How much would customer be willing to pay for your product? Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
+Printed writeup addressing research questions above, and a jupyter notebook visualizing and summarizing your dataset. 
 
-
-### Extra Credit
-There's nothing quite like talking to **real potential customers**. Earn 0.5 pts on your final grade for each potential customer interview you conduct, for up to 3 interviews. Interviews cannot be with people you knew before starting the class - you have to find your own leads. Interviews may be conducted in person or over the phone. Interviews should focus on the customer's problems and how your particular computer vision solution could help them. Record your interview and include a transcript of your interview questions and your interviewees responses as an appendix to your writeup. 
-
-For groups working with Industry Partners (see below), talking with customers is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
-
-
-## 3. Literature Review
-Part 2 was all about people, Part 3 is all about technology. A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done.
+## 3. Modeling
+This is the fun part! Build your models, conduct experiments, look at the literature you reviewed for ideas. 
 
 ### Deliverables
-A printed 3-5 page writeup citing 10+ sources, and 10-15 slide deck presenting the same information. 
-
-Sections should include: 
-
-### Academic Literature 
-This section should read like the introduction to an [academic paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). What academic work is relevant to your project topic? How do these approaches inform yours? What are the strenghts, weaknesses, and history of these techniques? 
+Well-documented, visually pleasing, and clear jupyter notebook presenting results.
 
 
-### Publically Available Data, Tools, and Code
-What open source code and tools are available that are relevant to your topic? How long have they been around? How active are the communities around these tools? What data is available for testing and/or training algorithms? Is labeled data available?
 
-
-### Industry Solutions
-What companies are solving similar problems to yours? It can be tough to tell exactly how proprietary solutions work, but what can you find on the internet? Has anyone reverse engineered these products? If you have access to the product, what can you learn from using it? Are there available talks, documentation, or other resources from their engineering teams?
-
-
-## 4. Technical Planning
-What will a successful demo look like? What are the 3-6 milestones to a completed demo? How will you break up the work accross your team members? What programming languagues are you planning to develop your solution in? What open source tools will you use (opencv, tensorflow). How will you aquire testing or training data? Do you need training data? Does your data need to labeled or annotated? If so, where will these labels come from? What's your technical plan B if you run into issues?
+## 4. Final Pitch + Demo
 
 
 ### Deliverables
-Printed 2 page planning document. 
+10 minute presentation + demo of your technology to your peers. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing a well-documented, visually pleasing, and clear implementation of your solution, final presentation, and deliverables from previous stages.
 
 
-## 5. Final Pitch + MVP Demo
 
-
-### Deliverables
-10 minute presentation + demo of your technology to your peers. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing well-documented implementation of your solution, final presentation, and deliverables from previous stages.
-
-
-# Industry Partnerships
-
-![](graphics/old_charlotte_map.png)
-
-Where possible, group projects will involve working directly with a local business or startup. Industry partners will select computer vision "side problems" or ideas that they find interesting but don't have time to explore, but could be relevant to thier business one day. Ideally, industry partners will meet with student groups 2-3 times throughout the semester to provide feedback + direction. When possible, partners may provide data for students to use. 
-
-## Benefits to Industry Partners
-- Groups may come up with interesting approaches that may be worth pursuing further
-- Partners may identify well-qualified potential interns or hires
-
-[Guidelines for Industry Partners](https://github.com/unccv/course_project/blob/master/industry_partnerships.md)
-
-## Benefits to Students
-- Get work on a real problem
-- A little guidance along the way
-- Exposure to interesting places to potentially work
-- A strong resume booster
-
-## Extra Credit
-For groups working with Industry Partners, the extra credit portion of phase 2 is replaced by 3 meetings with industry partners. Working with an industry partner is worth 1.0 extra credit point on your final grade, contingent on 3 successful meetings with your partner.
-
-# Fall 2018 Projects
+## Fall 2018 Projects
 
 | Group Number | Project Name |
 |--------------|--------------|
