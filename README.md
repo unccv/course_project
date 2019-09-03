@@ -47,9 +47,9 @@ Projects will be broken into and evaluated in 4 stages:
 
 |         |   Stage     | Description                 | Deliverable           | Due Date      | Percent of Course Grade    | 
 | ------- | --------------- | --------------------------- | --------------------- | -------------- | ---------   |
-|    1    | Topic Selection | What CV problem will you go after?  | 1 page writeup | 9/5   |  1%  | 
+|    1    | Topic Selection | What CV problem will you go after?  | 1 page writeup | 9/17   |  1%  | 
 |    2    | Research + Data Collection | Who are your customers? (Talk to them for extra credit)| Writeup summarizing  research, and visualizing dataset | 10/10 | 10% |
-|    3    | Modeling | Build and train your models. Experiment. | Well-documented, visually pleasing, and clear jupyter notebook presenting results. | 11/5| 10% |
+|    3    | Modeling | Build and train your models. Experiment. | Well-documented, visually pleasing, and clear jupyter notebook presenting results. | 11/5| 15% |
 |    4    | Presentation + Storytelling | Craft your story. Create videos + visuals. Document your project. | Public Github repo with well-documented implementation of your solution, final presentation, and deliverables from previous stages | 12/3| 14% | 
 
 
