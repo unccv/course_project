@@ -22,7 +22,8 @@ The partnership program connects groups of students in ITCS 4152/5152 (typically
 - Strong incentive to actually get stuff done
 
 ### Disclaimers
-- In the unlikely case than novel IP is developed in the course of the project, ownership defaults to UNCC. Specific IP agreements may be feasible under certain circumstances. 
+- In the unlikely case than patentable intellectual property is developed in the course of the project, patent ownership defaults to UNCC. Specific intellectual property agreements may be formed between the UNCC Office of Technology and industry partners if needed, please inquire for more information. 
+- Students retain ownership of the copyright of their work as defined in [University Policy 315](https://legal.uncc.edu/policies/up-315#V.D). 
 
 ## Fall 2019 Schedule
 
