@@ -140,6 +140,28 @@ Some groups will work with industry and community partners on projects. Clearly 
 Please copy your TAs + instructur on industry partner update emails. Partners are expected to meet with groups three times per semetester, including final presentation, but may meet more frequently if time permits. 
 
 
+## Fall 2019 Projects
+
+| Group Number | Project Name |
+|--------------|--------------|
+| 1 | [RNA Classifier](https://github.com/rishi-koushal/Ribonucleic-Acid-Vision-Classifier) |
+| 2 | [Lucid Drones](https://github.com/yuryi-malakhau/facadeSegmentation) |
+| 3 | [2U Laundry](https://github.com/thaotrongtran/GRINN) |
+| 4 | [Vishion](https://github.com/amitdshetty/Color_Variation_Detection_Project) |
+| 5 | [Crowd Emotion Recognition](https://github.com/PranotiDesai/Crowd-Emotion-Recognition) |
+| 6 | [UI Wireframe to Prototype](https://github.com/sameershanbhag/UIWireframes2Mockup) |
+| 7 | [ Attribution of private Images to GANS](https://github.com/bhanu566/CV_GAN) |
+| 8 | [Hand Signal recognition for Drones](https://github.com/AishwaryaParaspatki/Hand-Gesture-Recognition-for-Drones) |
+| 9 | [Drone Stabilization](https://github.com/Divya27mb/Drone-Stabilization) |
+| 10 | [Good Roads](https://github.com/mattwells19/USRoadSignRecognition) |
+| 11 | [Lowes](https://github.com/rnair3/Computer-Vision) |
+| 12 | [Distracted Driver Detection](https://github.com/hdetroja/Distracted-Driver-Detection) |
+| 13 | [Traffic Signal Prioritizer](https://github.com/storm-king/TrafficSignalPrioritizer) |
+| 14 | [Combat Finder - Find Fight Scenario in Real Time](https://github.com/nomdebrew/JeastyPy) |
+
+
+
+
 ## Fall 2018 Projects
 
 | Group Number | Project Name |
