@@ -133,17 +133,18 @@ A video recording of the presentation + demo of your technology. Briefly tell th
 - The final stitched video should have a proper flow of the entire project.
 - Here are some tools that are available online for stitiching the video:
 
-For Windows OS:
+  - For Windows OS:
 
-Stitching can be done using the default 'Photos' app.
-More details are in the following link:
-https://www.msftnext.com/merge-videos-windows-10-photos-app/
-Students can download the following free application that is available in the Microsoft store:
-https://www.microsoft.com/en-us/p/simple-video-trim-merge/9pfdgvnpd3zc?activetab=pivot:overviewtab
-For MAC OS:
+   - Stitching can be done using the default 'Photos' app.
+   - More details are in the following link:
+    https://www.msftnext.com/merge-videos-windows-10-photos-app/
+   - Students can download the following free application that is available in the Microsoft store:
+    https://www.microsoft.com/en-us/p/simple-video-trim-merge/9pfdgvnpd3zc?activetab=pivot:overviewtab
+    
+  - For MAC OS:
 
-Students can use the QuickTime player and stitch videos:
-https://help.vyond.com/hc/en-us/articles/115005667026-How-do-I-merge-two-or-more-videos-in-QuickTime-
+   - Students can use the QuickTime player and stitch videos:
+    https://help.vyond.com/hc/en-us/articles/115005667026-How-do-I-merge-two-or-more-videos-in-QuickTime-
 
 - Students can use any other video editing tool they prefer to.
 
