@@ -127,8 +127,25 @@ Well-documented, visually pleasing, and clear jupyter notebook presenting result
 
 
 ### Deliverables
-10 minute presentation + demo of your technology to your peers. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing a well-documented, visually pleasing, and clear implementation of your solution, final presentation, and deliverables from previous stages.
+A video recording of the presentation + demo of your technology. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing a well-documented, visually pleasing, and clear implementation of your solution, final presentation, and deliverables from previous stages. Here are the guidelines for the video recording:
+- Every member of the project records a video explaining the part he/she contributed to the project.
+- One of the team members stitches all the videos and send it to us.
+- The final stitched video should have a proper flow of the entire project.
+- Here are some tools that are available online for stitiching the video:
 
+For Windows OS:
+
+Stitching can be done using the default 'Photos' app.
+More details are in the following link:
+https://www.msftnext.com/merge-videos-windows-10-photos-app/
+Students can download the following free application that is available in the Microsoft store:
+https://www.microsoft.com/en-us/p/simple-video-trim-merge/9pfdgvnpd3zc?activetab=pivot:overviewtab
+For MAC OS:
+
+Students can use the QuickTime player and stitch videos:
+https://help.vyond.com/hc/en-us/articles/115005667026-How-do-I-merge-two-or-more-videos-in-QuickTime-
+
+- Students can use any other video editing tool they prefer to.
 
 ## Guidelines for Groups with Industry and Community Partners
 Some groups will work with industry and community partners on projects. Clearly and consistently communicating with your partners is key to a successful project. After your initial kick-off meeting with your partners, you are expected to send short update emails to your partners every 2-3 weeks for the duration of your project. These will help keep your work aligned with your partners, and help break up the project into "sprints". Update emails should include: 
@@ -137,7 +154,7 @@ Some groups will work with industry and community partners on projects. Clearly 
 2. What you are planning to accomplish before the next update. 
 3. Any questions you have for your partners, and in the event that you need to meet/call with your partner in the next 2 weeks, a few proposed meeting times. 
 
-Please copy your TAs + instructur on industry partner update emails. Partners are expected to meet with groups three times per semetester, including final presentation, but may meet more frequently if time permits. 
+Please copy your TAs + instructor on industry partner update emails. Partners are expected to meet with groups three times per semetester, including final presentation, but may meet more frequently if time permits. 
 
 
 ## Fall 2019 Projects
