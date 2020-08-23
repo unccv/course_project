@@ -25,17 +25,17 @@ The partnership program connects groups of students in ITCS 4152/5152 (typically
 - In the unlikely case than patentable intellectual property is developed in the course of the project, patent ownership defaults to UNCC. Specific intellectual property agreements may be formed between the UNCC Office of Technology and industry partners if needed, please inquire for more information. 
 - Students retain ownership of the copyright of their work as defined in [University Policy 315](https://legal.uncc.edu/policies/up-315#V.D). 
 
-## Fall 2019 Schedule
+## Fall 2020 Schedule
 
-### Meeting 1: Topic Selection (September)
+
+### Virtual Meeting 1: Topic Selection (September)
 - Partners will choose 1-3 interesting problems for teams to potentially work on.
-- Meeting location + times will be coordinated between teams and partners
-- Partners may provide data to treams
-- Topic should be nailed down by the end of September
+- Meeting times will be coordinated between teams and partners
+- Partners may provide data to teams
+- Topic should be nailed down by early October
 
-### Meeting 2: Midway Update (October)
+### Virtual Meeting 2: Midway Update (October)
 - Teams will present a review of relevant academic literature, publically available data, tools, and code; and existing industry solutions. Findings will be shared in a short slide deck and short write up.
 
-### Meeting 3: Final Presentation (December)
-- Partners are invited to attend final group presentations at UNCC. If the timing doesn't work, teams will present twice - once at UNCC final groups presentations, and meet with partners independently for final presentations.
+### Vitrual Meeting 3: Final Presentation (December)
 - Teams will share a demo of the solution they have developed, and share key findings form the development process. 
