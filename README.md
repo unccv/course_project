@@ -68,7 +68,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 A printed one page proposal submission + resume(s) of individual team members on Canvas. If you already have team members in mind, you may submit a single proposal as a group. Submissions should inlcude your name(s), grad/undergrad status, phone number and email, a writeup of your topic proposal, a proposed final technology demo, and your resume(s). If you would like to collaborate with an industry partner (listed on Canvas), include the partner you would like to collaborate with, and tailor your proposal to your partner. Keep in mind that your partner may wish to change your topic. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
 
 ### Final Team Creation
-We will make final team assignments. Ideally, each group will be composed of 2-3 graduate students and 1 undergraduate student. We will do our best to put you with requested team members, and assign you to the topic of our interest. 
+We will make final team assignments. Ideally, each group will be composed of 2-3 graduate students and 1 undergraduate student. We will do our best to put you with requested team members, and assign you to the topic of your interest. 
 
 
 ## 2. Research + Data Collection
