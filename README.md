@@ -54,10 +54,10 @@ Projects will be broken into and evaluated in 4 stages:
 
 
 ## Meetings 
-Throughout the course of the semester, your team will meet individually with TAs and Instructor to review your progress three times over the course of the semester, after the completion of stages 1, 2, and 3. You must schedule your meetings via calendly, a link will be provied. You will only receive credit for each stage after your individual meetings. 
+Throughout the course of the semester, your team will meet individually with their supervising TA and Instructor to review your progress several times during the semester. One of the team members form each team has to schedule meetings via calendly (a link will be provided). The team members receive credits for each stage only after individual team meetings. 
 
 ## 1. Topic Selection
-There are a huge number of interesting applications of computer vision. Good course project topics will meet a few criteria: 
+There are a wide range of interesting applications in the domain of computer vision. Good course project topics will have to meet few mandatory criteria: 
 
 1. Use image or video data as primary data source
 2. Leverage Computer Vision algorithms on top of data
@@ -68,7 +68,7 @@ There are a huge number of interesting applications of computer vision. Good cou
 A printed one page proposal submission + resume(s) of individual team members on Canvas. If you already have team members in mind, you may submit a single proposal as a group. Submissions should inlcude your name(s), grad/undergrad status, phone number and email, a writeup of your topic proposal, a proposed final technology demo, and your resume(s). If you would like to collaborate with an industry partner (listed on Canvas), include the partner you would like to collaborate with, and tailor your proposal to your partner. Keep in mind that your partner may wish to change your topic. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
 
 ### Final Team Creation
-We will make final team assignments. Ideally, each group will be composed of 2-3 graduate students and 1 undergraduate student. We will do our best to put you with requested team members, and assign you to the topic of your interest. 
+The final decision on the team creation is with the professor and TAs. Ideally, each group will be composed of 3-4 graduate students and 1 undergraduate student. We will do our best to put you with your requested team members, and assign you to the topic of your interest. 
 
 
 ## 2. Research + Data Collection
@@ -88,7 +88,7 @@ Your research should be spread accross a few key areas. Depending on your projec
 - Are your customers individuals or businesses? Be sure to cite the sources you reference in your research. 
 
 #### 2.1.2 Academic Literature Review
-A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done. You should pick 3 academic papers (we can help you with this, just ask), and do a "deep-dive" on these publications. 
+A thorough literature review can save weeks of wasted time implementing dead-end solutions or re-doing work that others have already done. You should pick 3 academic papers (we can help you with this, if needed), and do a "deep-dive" on these publications. 
 
 - What academic work is relevant to your project topic? Pick 3 papers, ask us for help if you need it.
 - What makes these papers important/relevant? 
@@ -149,7 +149,7 @@ A video recording of the presentation + demo of your technology. Briefly tell th
 - Students can use any other video editing tool they prefer to.
 
 ## Guidelines for Groups with Industry and Community Partners
-Some groups will work with industry and community partners on projects. Clearly and consistently communicating with your partners is key to a successful project. After your initial kick-off meeting with your partners, you are expected to send short update emails to your partners every 2-3 weeks for the duration of your project. These will help keep your work aligned with your partners, and help break up the project into "sprints". Update emails should include: 
+Some groups will work with industry and community partners on projects. Clearly and consistently communicating with your partners is key to a successful project. After your initial kick-off meeting with your partners, you are expected to send short update emails to your partners every 2-3 weeks for the duration of your project. This will help keep your work aligned with your partners, and help break up the project into "sprints". Email updates should include: 
 
 1. What you have accomplished since the last update. Specific details about learnings/ideas/approaches/things that are or are not working. Share images/vidoes or other intermediate results if you have them. 
 2. What you are planning to accomplish before the next update. 
