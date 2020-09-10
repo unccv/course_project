@@ -65,7 +65,7 @@ There are a wide range of interesting applications in the domain of computer vis
 
 
 ### Deliverables
-A printed one page proposal submission + resume(s) of individual team members on Canvas. If you already have team members in mind, you may submit a single proposal as a group. Submissions should inlcude your name(s), grad/undergrad status, phone number and email, a writeup of your topic proposal, a proposed final technology demo, and your resume(s). If you would like to collaborate with an industry partner (listed on Canvas), include the partner you would like to collaborate with, and tailor your proposal to your partner. Keep in mind that your partner may wish to change your topic. Given more demand than industry partners, groups will be selected for partnerships based on the quality of proposal. 
+A one page proposal submission + resume of each student on Canvas. If you already have team members in mind, you may submit a single proposal as a group. Submissions should inlcude your name(s), grad/undergrad status, phone number and email, a writeup of your topic proposal, a proposed final technology demo, and your resume. Note that, even though there is a group of students who would like to submit a single proposal, each student from the group has to still submit the individual proposal on canvas along with their resume. If you would like to collaborate with an industry partner (listed on Canvas), include the partner you would like to collaborate with, and tailor your proposal to your partner. Keep in mind that your partner may wish to change your topic. Groups will be selected for partnerships based on the quality of your proposal. 
 
 ### Final Team Creation
 The final decision on the team creation is with the professor and TAs. Ideally, each group will be composed of 3-4 graduate students and 1 undergraduate student. We will do our best to put you with your requested team members, and assign you to the topic of your interest. 
@@ -113,7 +113,7 @@ Your project will involve either collecting your own data or using publically av
 
 
 ### Deliverables:
-Printed writeup addressing research questions above, and a jupyter notebook visualizing and summarizing your dataset. 
+A writeup addressing 10 of the questions mentioned above, and a jupyter notebook visualizing and summarizing your dataset. 
 
 ## 3. Modeling
 This is the fun part! Build your models, conduct experiments, look at the literature you reviewed for ideas. 
