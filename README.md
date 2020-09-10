@@ -54,7 +54,7 @@ Projects will be broken into and evaluated in 4 stages:
 
 
 ## Meetings 
-Throughout the course of the semester, your team will meet individually with their supervising TA and Instructor to review your progress several times during the semester. One of the team members form each team has to schedule meetings via calendly (a link will be provided). The team members receive credits for each stage only after individual team meetings. 
+Throughout the course of the semester, your team will meet individually with their supervising TA and Instructor to review your progress several times during the semester. One of the team members from each team has to schedule meetings via Calendly (a link will be provided). The team members receive credits for each stage only after individual team meetings. 
 
 ## 1. Topic Selection
 There are a wide range of interesting applications in the domain of computer vision. Good course project topics will have to meet few mandatory criteria: 
